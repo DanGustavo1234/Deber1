@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Outline');
+
+body{
+   
+    background-image: url(https://brandemia.org/sites/default/files/inline/images/designstudio_uefa_champions_league_starball_030.jpg);
+    
+}
+
+h1{
+    text-align: center;
+    font-family: "Bungee Outline", cursive;
+    font-size: 45px;
+    color: rgb(226, 199, 172);
+    background-color:none;
+    text-shadow: rgba(0, 128, 153, 0.75) 0px 0px 0px, rgba(0, 128, 153, 0.71) 0px 5px 0px, rgba(0, 128, 153, 0.68) 0px 10px 0px, rgba(0, 128, 153, 0.64) 0px 15px 0px, rgba(0, 128, 153, 0.61) 0px 20px 0px, rgba(0, 128, 153, 0.57) 0px 25px 0px, rgba(0, 128, 153, 0.54) 0px 30px 0px, rgba(0, 128, 153, 0.5) 0px 35px 0px;
+}
+
+.card{
+    width: 22vh;
+    height: 22vh;
+    margin-top: 10px;
+
+}
+
+.card-body{
+    margin-right:10px;
+    margin-left:10px;
+}
+
+form{
+    display: flex;
+   
+   
+}
+
+#boton{
+    display:flex;
+    font-size:8px;
+    width:150px;
+    height:20px;
+    margin-top:30px; 
+    align-items: center;
+    justify-content:center;
+    font-family:roboto,sans-serif;
+   
+}
+.col{
+    display: grid;
+    grid-template-columns: 100px 100px;
+    grid-template-rows: 20px 1px 10px 60px 120px;
+}
+
+
+
+
+
+        
+        
